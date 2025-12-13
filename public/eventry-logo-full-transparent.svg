@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fully transparent background (nothing here) -->
+
+  <!-- Icon: three curved shapes forming a "W" like pattern -->
+  <g transform="translate(40,60)">
+    <path d="M 0,0 
+             Q -15,-25 -5,-40 
+             Q 5,-25 0,0 
+             Q -5,25 -15,40 
+             Q -5,25 0,0" 
+          fill="#00ff9d" />
+    <path d="M 20,0 
+             Q 5,-25 15,-40 
+             Q 25,-25 20,0 
+             Q 15,25 5,40 
+             Q 15,25 20,0" 
+          fill="#00ff9d" />
+    <path d="M 40,0 
+             Q 25,-25 35,-40 
+             Q 45,-25 40,0 
+             Q 35,25 25,40 
+             Q 35,25 40,0" 
+          fill="#00ff9d" />
+  </g>
+
+  <!-- Text: eventy -->
+  <text x="120" y="75" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="bold" fill="#ffffff">
+    Eventy
+  </text>
+</svg>
